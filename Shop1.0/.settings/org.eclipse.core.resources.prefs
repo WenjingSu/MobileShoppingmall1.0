@@ -1,0 +1,15 @@
+#Fri Feb 02 09:27:14 CST 2018
+eclipse.preferences.version=1
+encoding//WebRoot/MyJsptest.jsp=UTF-8
+encoding//WebRoot/backmanger/index1.jsp=UTF-8
+encoding//WebRoot/backmanger/orderprint.jsp=UTF-8
+encoding//WebRoot/frontmanger/Pay.jsp=UTF-8
+encoding//WebRoot/frontmanger/css/carts.css=UTF-8
+encoding//WebRoot/frontmanger/index.jsp=UTF-8
+encoding//WebRoot/frontmanger/single.jsp=UTF-8
+encoding//WebRoot/frontmanger/useraddress.jsp=UTF-8
+encoding//src/com/apple/dao/GoodsTypeDao.java=UTF-8
+encoding//src/com/apple/dao/impl/GoodsTypeDaoImp.java=UTF-8
+encoding//src/com/apple/dao/impl/UserDaoImp.java=UTF-8
+encoding//src/com/apple/servlet/GoodsTypeServlet.java=UTF-8
+encoding//src/com/apple/servlet/UserServlet.java=UTF-8

@@ -1,0 +1,41 @@
+.user_head_padding{
+	margin-bottom:5px;
+	margin-top:5px;
+	background:#D2FFFF;
+	height:80px;
+	}
+	
+.user_head{
+		list-style:none;
+	padding-top:5px;
+	padding-bottom:2px;
+	}
+.user_head_left1 {
+	list-style:none;
+	float:left;
+	color:#666;
+	font-size:10px;
+}
+.user_head_left2{
+	list-style:none;
+	float:left;
+	color:#666;
+	font-size:10px;
+}
+.user_head_right{
+	padding-right:10px;
+	
+}
+.user_head_right{
+	list-style:none;
+	float:right;
+	}
+.user_foot{
+	list-style:none;
+	
+}
+.user_foot{
+	margin-left:20px;
+	float:left;
+	padding-left:10px;
+}
